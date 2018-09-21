@@ -97,6 +97,7 @@
     "eslint-plugin-promise": "3.x",
     "gulp": "3.x",
     "handlebars": "^4.0.10",
+    "lerna": "^3.4.0",
     "mocha": "2.x",
     "pre-commit": "1.x",
     "replace-ext": "^1.0.0",
